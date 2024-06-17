@@ -18,3 +18,7 @@ With Remy by your side, your Discord server will never be short on excitement or
 ### looking for a fun bot for your server? 
 Just click on the link below to add Remy :)
 [click here to add Remy!](url)
+
+
+by:
+[DirkEz](https://github.com/dirkez)
