@@ -21,4 +21,4 @@ Just click on the link below to add Remy :)
 
 
 by:
-[DirkEz](https://github.com/dirkez) [Aiden Raaphorst](https://github.com/aidenraaphorst) [Joran Daniel](https://github.com/jorandaniel)
+[DirkEz](https://github.com/dirkez) [Aiden Raaphorst](https://github.com/aidenraaphorst)
